@@ -9,7 +9,7 @@ public class RectangleArea {
         System.out.print("breadth of a rectangle:");
         int breadth = sc.nextInt();
 
-        System.out.println("area of the rectangle is :"+ length*breadth);
+        System.out.println(length*breadth);
 
     }
 }
