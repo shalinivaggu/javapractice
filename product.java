@@ -7,7 +7,7 @@ public class product {
         System.out.print("y:");
         int y = sc.nextInt();
 
-        System.out.println(x+"*"+y+"="+x*y);
+        System.out.println(x*y);
 
 
     }
